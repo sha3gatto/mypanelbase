@@ -1,0 +1,12 @@
+/*
+ Theme Name:   WBS Child Theme
+ Theme URI:    https://mypanelbase.co.uk/
+ Description:  A WP Bootstrap Starter child theme 
+ Author:       7 points
+ Author URI:   https://mypanelbase.co.uk/
+ Template:     wp-bootstrap-starter
+ Version:      1.0.0
+ Text Domain:  wbs-child
+*/
+ 
+@import url("../wp-bootstrap-starter/style.css");

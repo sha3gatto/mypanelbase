@@ -1,0 +1,31 @@
+# Translation of Plugins - Disable Emojis - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Disable Emojis - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-28 10:58:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Disable Emojis - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://geek.hellyer.kiwi/"
+msgstr "https://geek.hellyer.kiwi/"
+
+#. Author of the plugin/theme
+msgid "Ryan Hellyer"
+msgstr "Ryan Hellyer"
+
+#. Plugin URI of the plugin/theme
+msgid "https://geek.hellyer.kiwi/plugins/disable-emojis/"
+msgstr "https://geek.hellyer.kiwi/plugins/disable-emojis/"
+
+#. #-#-#-#-#  disable-emojis-code.pot (Disable Emojis 1.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  disable-emojis-code.pot (Disable Emojis 1.7)  #-#-#-#-#
+#. Description of the plugin/theme
+msgid "Disable Emojis"
+msgstr "Disable Emojis"

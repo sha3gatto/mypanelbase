@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hero for Genesis Framework\n"
+"POT-Creation-Date: 2015-11-08 12:10-0500\n"
+"PO-Revision-Date: 2015-11-08 16:36-0500\n"
+"Last-Translator: TWF <info@themes-wordpress-francais.com>\n"
+"Language-Team: TWF <info@themes-wordpress-francais.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: plugin.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core/functions.admin.php:64
+msgid "General"
+msgstr "Général"
+
+#: core/functions.admin.php:67
+msgid "General Options"
+msgstr "Options Générales"
+
+#: core/functions.admin.php:76
+msgid "Widget Title"
+msgstr "Titre du widget"
+
+#: core/functions.admin.php:77
+msgid "Widget Title Background"
+msgstr "Arrière-plan du Titre de Widget"
+
+#: core/functions.admin.php:78
+msgid "Links"
+msgstr "Liens"
+
+#: core/functions.admin.php:79
+msgid "Link Hover"
+msgstr "Lien survolé"
+
+#: core/functions.admin.php:80
+msgid "Paragraph"
+msgstr "Paragraphe"
+
+#: core/functions.admin.php:81
+msgid "Label"
+msgstr "Étiquette"
+
+#: core/functions.admin.php:82
+msgid "Lists"
+msgstr "Listes"
+
+#: core/functions.admin.php:83
+msgid "Text Box & Text Area Text Color"
+msgstr "Zone de texte & texte zone texte couleur"
+
+#: core/functions.admin.php:84
+msgid "Text Box & Text Area Background Color"
+msgstr "Boite de texte et couleur d’arrière-plan de zone de texte"
+
+#: core/functions.admin.php:85
+msgid "Button Text"
+msgstr "Texte du Bouton"
+
+#: core/functions.admin.php:86
+msgid "Button Text Hover"
+msgstr "Couleur de texte du bouton au survol"
+
+#: core/functions.admin.php:87
+msgid "Button Background"
+msgstr "Fond du Bouton"
+
+#: core/functions.admin.php:88
+msgid "Button Background Hover"
+msgstr "Fond du bouton au survol"
+
+#: core/functions.admin.php:91
+msgid "General Option for Hero image on your Genesis Powered Site"
+msgstr ""
+"Option générale pour l’image de héros sur votre site propulsé par Genesis"
+
+#: core/functions.admin.php:95
+msgid "Full Height"
+msgstr "Pleine Hauteur"
+
+#: core/functions.admin.php:98
+#, php-format
+msgid "Check to make the Hero Section 100% of the Browser Height"
+msgstr "Cochez pour que la zone héros soit de 100% de la hauteur du navigateur"
+
+#: core/functions.admin.php:102
+msgid "Behind Header"
+msgstr "Derrière l’en-tête"
+
+#: core/functions.admin.php:105
+msgid ""
+"Start Hero Section Behind the Header Section. This will also turns your ."
+"site-header background to transparent."
+msgstr ""
+"Commencer la Section héros derrière l’en-tête. Ceci transforme l’arrière-"
+"plan .site-header  en transparent."
+
+#: core/functions.admin.php:109
+msgid "Aligment"
+msgstr "Alignement"
+
+#: core/functions.admin.php:112
+msgid "Default"
+msgstr "Défaut"
+
+#: core/functions.admin.php:113
+msgid "Left"
+msgstr "Gauche"
+
+#: core/functions.admin.php:114
+msgid "Center"
+msgstr "Centre"
+
+#: core/functions.admin.php:115
+msgid "Right"
+msgstr "Droite"
+
+#: core/functions.admin.php:121
+msgid "Custom Styling"
+msgstr "Style personnalisé"
+
+#: core/functions.admin.php:122
+msgid "Customize Color Scheme to fit your theme appearance."
+msgstr "Personnalise les couleurs pour les adapter à l’apparence du thème."
+
+#: core/functions.admin.php:141 core/functions.admin.php:144
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: core/functions.admin.php:152
+msgid "Add Custom CSS code on the textarea below."
+msgstr "Ajouter du code CSS personnalisé sur la zone de texte ci-dessous."
+
+#: core/functions.admin.php:255
+msgid "Help"
+msgstr "Aide"
+
+#: core/functions.admin.php:258
+msgid "Need Help?"
+msgstr "Besoin d aide?"
+
+#: core/functions.admin.php:262
+msgid ""
+"<p>Having any trouble on setting up the hero section on your site or perhaps "
+"you need additional plugin features? Feel free to contact me <a href="
+"\"http://phpbits.net/hire-me/\" target=\"_blank\">here</a> and will be very "
+"happy to assists you, not for free though ;)</p>"
+msgstr ""
+"<p>Un problèmes sur la mise en place de la section de héros sur votre site "
+"ou peut-être vous avez besoin de fonctionnalités supplémentaires ? N’hésitez "
+"pas à me contacter <a href=\"http://phpbits.net/hire-me/\" target=\"_blank"
+"\">ici</a> et je serais très heureux de vous aider, mais pas "
+"gratuitement ;)</p>"
+
+#: core/functions.admin.php:264
+msgid ""
+"<p>Or not? If you've got it all figured out and enjoying this plugin don't "
+"forget to leave a rating <a href=\"https://wordpress.org/support/view/plugin-"
+"reviews/hero-for-genesis-framework\" target=\"_blank\">here</a> or subscribe "
+"to our <a href=\"http://phpbits.net/blog/\" target=\"_blank\">newsletter</a> "
+"for updates. Thanks!</p>"
+msgstr ""
+"<p>Ou non ? Si vous avez tous compris et appréciez ce plugin n’oubliez pas "
+"de laisser une note <a href=\"https://wordpress.org/support/view/plugin-"
+"reviews/hero-for-genesis-framework\" target=\"_blank\">ici</a> ou inscrivez-"
+"vous à notre <a href=\"http://phpbits.net/blog/\" target=\"_blank"
+"\">newsletter</a> pour les mises à jour. Merci !</p>"
+
+#: core/functions.admin.php:274 core/functions.widgets.php:15
+msgid "Hero for Genesis"
+msgstr "Héros pour Genesis"
+
+#: core/functions.admin.php:290
+msgid "Settings saved."
+msgstr "Paramètres enregistrés."
+
+#: core/functions.widgets.php:17
+msgid ""
+"Widgets in this area will be shown as Hero Image on your Genesis Framework "
+"powered site."
+msgstr ""
+"Cette zone widget affichera comme une image héros sur votre framework "
+"Genesis."
+
+#: core/widgets/widget.image.php:19
+msgid "Hero: Background Image"
+msgstr "Image d’arrière-plan Héros:"
+
+#: core/widgets/widget.image.php:20
+msgid "Fix Footr Widgets Float or ADD Widget Spacing"
+msgstr "Fixe la flottaison du bas de page ou ajoute un espace."
+
+#: core/widgets/widget.image.php:49
+msgid "Choose Image"
+msgstr "Choisir une image"
+
+#: core/widgets/widget.image.php:49
+msgid "Use Image"
+msgstr "Image utilisée"
+
+#: core/widgets/widget.image.php:50
+msgid "Remove Image"
+msgstr "Retirer l’image"
+
+#: core/widgets/widget.image.php:53
+msgid "Image Url"
+msgstr "URL de l’image"
+
+#. Plugin Name of the plugin/theme
+msgid "Hero for Genesis Framework"
+msgstr "Héros pour le Framework Genesis"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/hero-for-genesis-framework/"
+msgstr "https://wordpress.org/plugins/hero-for-genesis-framework/"
+
+#. Description of the plugin/theme
+msgid "Add Hero Image via widget on your Genesis Framework powered site"
+msgstr "Ajouter une image héros via un widget pour votre thème Genesis"
+
+#. Author of the plugin/theme
+msgid "phpbits"
+msgstr "phpbits"
+
+#. Author URI of the plugin/theme
+msgid "http://codecanyon.net/user/phpbits/portfolio?ref=phpbits"
+msgstr "http://codecanyon.net/user/phpbits/portfolio?ref=phpbits"
