@@ -146,8 +146,23 @@ add_action( 'after_setup_theme', 'wp_bootstrap_starter_setup' );
 /**
  * Enqueue scripts and styles.
  */
+function wp_bootstrap_starter_child_styles() {
+
+	$parent_style = 'wp-bootstrap-starter';
+
+	wp_enqueue_style( $parent_style, get_template_directory_uri() . '/style.css' );
+	wp_enqueue_style( 'wbs-child',
+		get_stylesheet_directory_uri() . '/style.css',
+		array( $parent_style ),
+		wp_get_theme()->get('Version')
+	);
+}
+add_action( 'wp_enqueue_scripts', 'wp_bootstrap_starter_child_styles' );
+
 function wp_bootstrap_starter_child_scripts() {
 	wp_enqueue_script( 'wbs-child', get_bloginfo( 'stylesheet_directory' ) . '/js/MPB-script.js', array( 'jquery' ), null, true );
 }
 
 add_action( 'wp_enqueue_scripts', 'wp_bootstrap_starter_child_scripts' );
+
+get_template_part("/inc/wp_bootstrap_navwalker");

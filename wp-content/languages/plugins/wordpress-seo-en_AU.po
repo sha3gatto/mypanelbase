@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Yoast SEO - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-12-20 21:08:00+0000\n"
+"PO-Revision-Date: 2018-01-09 08:39:59+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,36 @@ msgstr ""
 "X-Generator: GlotPress/2.4.0-alpha\n"
 "Language: en_AU\n"
 "Project-Id-Version: Plugins - Yoast SEO - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://yoa.st/1uk"
+msgstr "https://yoa.st/1uk"
+
+#. Plugin URI of the plugin/theme
+msgid "https://yoa.st/1uj"
+msgstr "https://yoa.st/1uj"
+
+#: admin/metabox/class-metabox.php:315
+#: admin/taxonomy/class-taxonomy-metabox.php:60
+msgid "Meta box"
+msgstr "Meta box"
+
+#. translators: %1$s resolves to Yoast.com
+#: admin/class-yoast-dashboard-widget.php:108
+msgid "Latest blogposts on %1$s"
+msgstr "Latest blogposts on %1$s"
+
+#: admin/class-help-center.php:220
+msgid "Need help?"
+msgstr "Need help?"
+
+#: admin/class-help-center.php:204
+msgid "Type here to search..."
+msgstr "Type here to search..."
+
+#: admin/class-help-center.php:203
+msgid "Search the Yoast Knowledge Base for answers to your questions:"
+msgstr "Search the Yoast Knowledge Base for answers to your questions:"
 
 #. Translators: %1$s and $3$s expand to the admin search page for the focus
 #. keyword, %2$d expands to the number 	   of times this focus keyword has been
@@ -222,10 +252,6 @@ msgstr "Loading help centre."
 msgid "Get support"
 msgstr "Get support"
 
-#: admin/class-help-center.php:204
-msgid "Search the knowledge base"
-msgstr "Search the knowledge base"
-
 #: admin/class-help-center.php:206
 msgid "View in KB"
 msgstr "View in KB"
@@ -431,13 +457,9 @@ msgstr "Does your site represent a person or company?"
 msgid "Close wizard"
 msgstr "Close wizard"
 
-#: admin/class-yoast-dashboard-widget.php:107
+#: admin/class-yoast-dashboard-widget.php:111
 msgid "Read more like this on our SEO blog"
 msgstr "Read more like this on our SEO blog"
-
-#: admin/class-yoast-dashboard-widget.php:106
-msgid "Latest blogposts on Yoast.com"
-msgstr "Latest blogposts on Yoast.com"
 
 #: inc/class-wpseo-rank.php:137
 msgid "Readability: Good"
@@ -527,10 +549,10 @@ msgstr "Go premium!"
 msgid "Dismiss %s upgrade motivation"
 msgstr "Dismiss %s upgrade motivation"
 
-#. translators: 1: open link tag 2: close link tag
+#. translators: 1: open link tag 2: close link tag, 3: Yoast.com
 #: admin/views/tabs/dashboard/features.php:55
-msgid "This feature helps you improve the internal link structure of your site. If you want to know more about the why and how of internal linking, check out the %1$sarticle about internal linking on Yoast.com%2$s."
-msgstr "This feature helps you improve the internal link structure of your site. If you want to know more about the why and how of internal linking, check out the %1$sarticle about internal linking on Yoast.com%2$s."
+msgid "This feature helps you improve the internal link structure of your site. If you want to know more about the why and how of internal linking, check out the %1$sarticle about internal linking on %3$s%2$s."
+msgstr "This feature helps you improve the internal link structure of your site. If you want to know more about the why and how of internal linking, check out the %1$sarticle about internal linking on %3$s%2$s."
 
 #. translators: %1$s: Yoast SEO. %2$s: Version number of Yoast SEO. %3$s: link
 #. to knowledge base article about solving table issue. %4$s: is anchor
@@ -1680,7 +1702,7 @@ msgid "%s installation wizard"
 msgstr "%s installation wizard"
 
 #. translators: %1$s expands to Yoast SEO
-#: admin/views/tabs/dashboard/features.php:74
+#: admin/views/tabs/dashboard/features.php:75
 msgid "%1$s comes with a lot of features. You can enable / disable some of them below."
 msgstr "%1$s comes with a lot of features. You can enable / disable some of them below."
 
@@ -1706,7 +1728,7 @@ msgstr "The advanced settings include site-wide settings for your titles and met
 msgid "Advanced settings pages"
 msgstr "Advanced settings pages"
 
-#: admin/pages/dashboard.php:60 admin/views/tabs/dashboard/features.php:70
+#: admin/pages/dashboard.php:60 admin/views/tabs/dashboard/features.php:71
 msgid "Features"
 msgstr "Features"
 
@@ -2466,10 +2488,6 @@ msgstr "Loading..."
 msgid "Something went wrong. Please try again later."
 msgstr "Something went wrong. Please try again later."
 
-#: admin/class-help-center.php:203
-msgid "Search the Yoast knowledge base"
-msgstr "Search the Yoast knowledge base"
-
 #: admin/class-help-center.php:211
 msgid "No results found."
 msgstr "No results found."
@@ -2700,7 +2718,7 @@ msgstr "The advanced section of the %1$s meta box allows a user to noindex posts
 msgid "Advanced part of the %1$s meta box"
 msgstr "Advanced part of the %1$s meta box"
 
-#: admin/class-yoast-form.php:316 admin/views/tabs/dashboard/features.php:84
+#: admin/class-yoast-form.php:316 admin/views/tabs/dashboard/features.php:85
 #: admin/views/tabs/dashboard/security.php:17
 #: admin/views/tabs/metas/archives.php:34
 #: admin/views/tabs/metas/archives.php:53
@@ -2709,7 +2727,7 @@ msgstr "Advanced part of the %1$s meta box"
 msgid "Enabled"
 msgstr "Enabled"
 
-#: admin/class-yoast-form.php:316 admin/views/tabs/dashboard/features.php:85
+#: admin/class-yoast-form.php:316 admin/views/tabs/dashboard/features.php:86
 #: admin/views/tabs/dashboard/security.php:18
 #: admin/views/tabs/metas/archives.php:35
 #: admin/views/tabs/metas/archives.php:54
@@ -2746,11 +2764,11 @@ msgstr "Remove the %s variables."
 msgid "Strip the category base (usually %s) from the category URL."
 msgstr "Strip the category base (usually %s) from the category URL."
 
-#: admin/class-yoast-dashboard-widget.php:114
+#: admin/class-yoast-dashboard-widget.php:118
 msgid "Analyze entire site"
 msgstr "Analyse entire site"
 
-#: admin/class-yoast-dashboard-widget.php:113
+#: admin/class-yoast-dashboard-widget.php:117
 msgid "Fetch the current status"
 msgstr "Fetch the current status"
 
@@ -2765,7 +2783,7 @@ msgid "Your homepage can be indexed by search engines."
 msgstr "Your homepage can be indexed by search engines."
 
 #. translators: %1$s expands to Ryte.
-#: admin/class-yoast-dashboard-widget.php:110
+#: admin/class-yoast-dashboard-widget.php:114
 msgid "Indexability check by %1$s"
 msgstr "Indexability check by %1$s"
 
@@ -2854,10 +2872,6 @@ msgstr "%1$s of %2$s done."
 msgid "We've updated our SEO score algorithm. %1$sRecalculate the SEO scores%2$s for all posts and pages."
 msgstr "We've updated our SEO score algorithm. %1$sRecalculate the SEO scores%2$s for all posts and pages."
 
-#. Author URI of the plugin/theme
-msgid "https://yoast.com/"
-msgstr "https://yoast.com/"
-
 #. Author of the plugin/theme
 msgid "Team Yoast"
 msgstr "Team Yoast"
@@ -2866,11 +2880,7 @@ msgstr "Team Yoast"
 msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
 msgstr "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
 
-#. Plugin URI of the plugin/theme
-msgid "https://yoast.com/wordpress/plugins/seo/#utm_source=wpadmin&utm_medium=plugin&utm_campaign=wpseoplugin"
-msgstr "https://yoast.com/wordpress/plugins/seo/#utm_source=wpadmin&utm_medium=plugin&utm_campaign=wpseoplugin"
-
-#. #-#-#-#-#  wordpress-seo-code.pot (Yoast SEO 6.0)  #-#-#-#-#
+#. #-#-#-#-#  wordpress-seo-code.pot (Yoast SEO 6.1)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
 #: admin/capabilities/class-capability-manager-integration.php:66
 msgid "Yoast SEO"
@@ -3363,7 +3373,7 @@ msgstr "A replacement variable can not start with \"%%cf_\" or \"%%ct_\" as thes
 msgid "A replacement variable can only contain alphanumeric characters, an underscore or a dash. Try renaming your variable."
 msgstr "A replacement variable can only contain alphanumeric characters, an underscore or a dash. Try renaming your variable."
 
-#: frontend/class-frontend.php:1260
+#: frontend/class-frontend.php:1261
 msgid "Admin only notice: this page doesn't show a meta description because it doesn't have one, either write it for this page specifically or go into the SEO -> Titles menu and set up a template."
 msgstr "Admin only notice: this page doesn't show a meta description because it doesn't have one, either write it for this page specifically or go into the SEO -> Titles menu and set up a template."
 
@@ -3743,7 +3753,7 @@ msgid "This tool allows you to quickly change titles and descriptions of your po
 msgstr "This tool allows you to quickly change titles and descriptions of your posts and pages without having to go into the editor for each page."
 
 #: admin/pages/tools.php:21 admin/views/tool-bulk-editor.php:37
-#: admin/views/tool-bulk-editor.php:40
+#: admin/views/tool-bulk-editor.php:40 admin/views/tool-file-editor.php:97
 msgid "Bulk editor"
 msgstr "Bulk editor"
 
@@ -5039,24 +5049,24 @@ msgstr "WooThemes SEO framework settings &amp; data successfully imported."
 msgid "HeadSpace2 data successfully imported"
 msgstr "HeadSpace2 data successfully imported"
 
-#: admin/class-export.php:187
+#: admin/class-export.php:191
 msgid "No taxonomy metadata found"
 msgstr "No taxonomy metadata found"
 
-#: admin/class-export.php:118
+#: admin/class-export.php:122
 msgid "This export includes taxonomy metadata"
 msgstr "This export includes taxonomy metadata"
 
-#. translators: %1$s expands to Yoast SEO
-#: admin/class-export.php:116
-msgid "This is a settings export file for the %1$s plugin by Yoast.com"
-msgstr "This is a settings export file for the %1$s plugin by Yoast.com"
+#. translators: %1$s expands to Yoast SEO, %2$s expands to Yoast.com
+#: admin/class-export.php:117
+msgid "This is a settings export file for the %1$s plugin by %2$s"
+msgstr "This is a settings export file for the %1$s plugin by %2$s"
 
 #: admin/class-export.php:100
 msgid "Could not write settings to file."
 msgstr "Could not write settings to file."
 
-#: admin/class-export.php:225
+#: admin/class-export.php:229
 msgid "Could not zip settings-file."
 msgstr "Could not zip settings-file."
 
@@ -5239,37 +5249,37 @@ msgstr "Edit Files"
 msgid "MultiSite Settings"
 msgstr "MultiSite Settings"
 
-#: admin/class-admin.php:692 admin/class-admin.php:693 admin/pages/metas.php:75
+#: admin/class-admin.php:700 admin/class-admin.php:701 admin/pages/metas.php:75
 msgid "Advanced Variables"
 msgstr "Advanced Variables"
 
-#: admin/class-admin.php:684 admin/class-admin.php:685 admin/pages/metas.php:69
+#: admin/class-admin.php:692 admin/class-admin.php:693 admin/pages/metas.php:69
 msgid "Basic Variables"
 msgstr "Basic Variables"
 
-#: admin/class-admin.php:677 admin/pages/metas.php:64
+#: admin/class-admin.php:685 admin/pages/metas.php:64
 msgid "Note that not all variables can be used in every template."
 msgstr "Note that not all variables can be used in every template."
 
 #. translators: %1$s expands to Yoast SEO.
-#: admin/class-admin.php:674
+#: admin/class-admin.php:682
 msgid "The title &amp; metas settings for %1$s are made up of variables that are replaced by specific values from the page when the page is displayed. The tabs on the left explain the available variables."
 msgstr "The title &amp; metas settings for %1$s are made up of variables that are replaced by specific values from the page when the page is displayed. The tabs on the left explain the available variables."
 
-#: admin/class-admin.php:670 admin/class-admin.php:671 admin/pages/metas.php:41
+#: admin/class-admin.php:678 admin/class-admin.php:679 admin/pages/metas.php:41
 #: admin/pages/metas.php:62
 msgid "Template explanation"
 msgstr "Template explanation"
 
-#: admin/class-admin.php:664
+#: admin/class-admin.php:672
 msgid "Why Google won't display the right page title"
 msgstr "Why Google won't display the right page title"
 
-#: admin/class-admin.php:663
+#: admin/class-admin.php:671
 msgid "Title optimization"
 msgstr "Title optimisation"
 
-#: admin/class-admin.php:662
+#: admin/class-admin.php:670
 msgid "For more information:"
 msgstr "For more information:"
 

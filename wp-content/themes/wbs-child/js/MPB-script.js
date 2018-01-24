@@ -1,4 +1,5 @@
 (function($) {
+
 	$( '#header-menu' ).children().last().click(function () {
 
 		$( '.dropdown-menu' ).toggleClass( 'visible' );
