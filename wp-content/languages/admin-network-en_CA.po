@@ -24,7 +24,7 @@ msgstr "You are about to delete the following sites:"
 msgid "User could not be added to this site."
 msgstr "User could not be added to this site."
 
-#: wp-admin/network/site-new.php:250
+#: wp-admin/network/site-new.php:252
 msgid "The username and a link to set the password will be mailed to this email address."
 msgstr "The username and a link to set the password will be mailed to this email address."
 
@@ -559,7 +559,7 @@ msgstr "Allowed file types. Separate types by spaces."
 msgid "Set site attributes"
 msgstr "Set site attributes"
 
-#: wp-admin/network/settings.php:418
+#: wp-admin/network/settings.php:420
 msgid "Enable menus"
 msgstr "Enable menus"
 
@@ -1219,7 +1219,7 @@ msgstr "Both sites and user accounts can be registered"
 msgid "User accounts may be registered"
 msgstr "User accounts may be registered."
 
-#: wp-admin/network/settings.php:396
+#: wp-admin/network/settings.php:398
 msgid "Enable administration menus"
 msgstr "Enable administration menus"
 
@@ -1276,11 +1276,11 @@ msgstr "Next Sites"
 msgid "Send the network admin an email notification every time someone registers a site or user account"
 msgstr "Send the network admin an email notification every time someone registers a site or user account"
 
-#: wp-admin/network/site-new.php:246
+#: wp-admin/network/site-new.php:248
 msgid "Admin Email"
 msgstr "Admin Email"
 
-#: wp-admin/network/site-new.php:250
+#: wp-admin/network/site-new.php:252
 msgid "A new user will be created if the above email address is not in the database."
 msgstr "A new user will be created if the above email address is not in the database."
 
@@ -1304,7 +1304,7 @@ msgstr "Max upload file size"
 msgid "Default Language"
 msgstr "Default Language"
 
-#: wp-admin/network/site-new.php:262
+#: wp-admin/network/site-new.php:264
 msgid "Add Site"
 msgstr "Add Site"
 

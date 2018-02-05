@@ -26,7 +26,7 @@ define('DB_NAME', 'mypanelbase');
 define('DB_USER', 'mypanelbase');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Luci0010');
+define('DB_PASSWORD', 'password');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

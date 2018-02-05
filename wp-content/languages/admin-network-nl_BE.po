@@ -24,7 +24,7 @@ msgstr "Je staat op het punt de volgende websites te verwijderen:"
 msgid "User could not be added to this site."
 msgstr "Gebruiker kon niet worden toegevoegd aan deze website."
 
-#: wp-admin/network/site-new.php:250
+#: wp-admin/network/site-new.php:252
 msgid "The username and a link to set the password will be mailed to this email address."
 msgstr "De gebruikersnaam en een link om het wachtwoord in te stellen zullen worden gemaild naar dit e-mailadres."
 
@@ -559,7 +559,7 @@ msgstr "Toegestane bestandstypen. De bestandstypes scheiden met spaties."
 msgid "Set site attributes"
 msgstr "Website attributen instellen"
 
-#: wp-admin/network/settings.php:418
+#: wp-admin/network/settings.php:420
 msgid "Enable menus"
 msgstr "Menu's inschakelen"
 
@@ -1235,7 +1235,7 @@ msgstr "Instellingen uploaden"
 msgid "Operational Settings"
 msgstr "Operationele instellingen"
 
-#: wp-admin/network/settings.php:396
+#: wp-admin/network/settings.php:398
 msgid "Enable administration menus"
 msgstr "Administratiemenu's activeren"
 
@@ -1276,15 +1276,15 @@ msgstr "[%s] Nieuwe website aangemaakt"
 msgid "Network Admin Email"
 msgstr "E-mailadres netwerkbeheerder"
 
-#: wp-admin/network/site-new.php:250
+#: wp-admin/network/site-new.php:252
 msgid "A new user will be created if the above email address is not in the database."
 msgstr "Een nieuwe gebruiker wordt aangemaakt als bovenstaande e-mailadres niet voorkomt in de database."
 
-#: wp-admin/network/site-new.php:246
+#: wp-admin/network/site-new.php:248
 msgid "Admin Email"
 msgstr "E-mailadres beheerder"
 
-#: wp-admin/network/site-new.php:262
+#: wp-admin/network/site-new.php:264
 msgid "Add Site"
 msgstr "Website toevoegen"
 
